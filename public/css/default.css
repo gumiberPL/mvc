@@ -1,0 +1,19 @@
+/* 
+    Created on : 2017-11-27, 00:15:17
+    Author     : gumiber
+*/
+
+body {
+    background: wheat;
+    font: 12px/16px "Arial", sans-serif;
+}
+
+header {
+    background: tomato;
+}
+#content {
+    background: gold;
+}
+footer {
+    background: yellowgreen;
+}
